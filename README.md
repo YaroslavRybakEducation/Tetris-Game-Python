@@ -10,8 +10,8 @@ Just a tetris game with Python and Pygame that i watched Programming with Nick v
 
 - key "LEFT": move the tetromino left;
 - key "RIGHT": move the tetromino right;
-- key "DOWN", move the tetromino down and increasing score;
-- key "UP" rotate the tetromino;
+- key "DOWN": move the tetromino down and increasing score;
+- key "UP": rotate the tetromino;
 - Score 100: Clearing 1 row;
 - Score 300: Clearing 2 rows;
 - Score 700: Clearing 3 rows;
