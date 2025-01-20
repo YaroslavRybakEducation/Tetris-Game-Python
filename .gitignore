@@ -1,0 +1,35 @@
+# Audio files
+
+*.mp3
+*.wav
+*.flac
+
+# Video files
+
+*.mp4
+*.wmv
+*.mov
+*.avi
+
+# Package files
+
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.xz
+*.tar
+*.gz
+
+# Log and text files
+
+*.log
+*.txt
+
+# Cache files
+
+*.pyc
+
+# Font files
+
+*.otf
