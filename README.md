@@ -6,6 +6,9 @@ Just a tetris game with Python and Pygame that i watched Programming with Nick v
 
 - <a href="https://www.pygame.org">Pygame</a>
 
+### Screenshot
+![Image](./preview.png)
+
 ### Controls:
 
 - key "LEFT": move the tetromino left;
